@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 This is Aditya Kumar's website.
-Lorem ipsum
