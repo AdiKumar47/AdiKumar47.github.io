@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aditya Kumar"
   avatar           : "profile.png"
-  bio              : "Student at Stiftsgymnasium Sindelfingen"
-  location         : "Sindelfingen, Germany"
+  bio              : "Student"
+  location         : "near Stuttgart, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "aditya.kr.2007@googlemail.com
+  email            : "adiku47@duck.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
